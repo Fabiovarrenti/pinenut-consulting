@@ -1,7 +1,4 @@
 import type { Component } from 'solid-js';
-import ReactGA from 'react-ga';
-
-ReactGA.initialize('G-LHQX9DBH71')
 
 import styles from './App.module.css';
 
